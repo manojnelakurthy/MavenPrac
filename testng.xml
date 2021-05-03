@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="sample">
+<parameter name="uname" value="admin"></parameter>
+<parameter name="pword" value="admin"></parameter>
+<test name="test">
+
+<classes>
+<class name="newmaven.Newtest"></class>
+
+</classes>
+
+</test>
+
+</suite>
