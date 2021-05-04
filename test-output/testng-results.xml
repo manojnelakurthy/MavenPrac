@@ -2,32 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="sample" duration-ms="12147" started-at="2021-05-03T07:17:44Z" finished-at="2021-05-03T07:17:57Z">
+  <suite name="Default suite" duration-ms="1869" started-at="2021-05-04T13:01:51Z" finished-at="2021-05-04T13:01:53Z">
     <groups>
     </groups>
-    <test name="test" duration-ms="12147" started-at="2021-05-03T07:17:44Z" finished-at="2021-05-03T07:17:57Z">
+    <test name="Default test" duration-ms="1869" started-at="2021-05-04T13:01:51Z" finished-at="2021-05-04T13:01:53Z">
       <class name="newmaven.Newtest">
-        <test-method status="PASS" signature="launch()[pri:0, instance:newmaven.Newtest@4cc0edeb]" name="launch" is-config="true" duration-ms="7273" started-at="2021-05-03T12:47:44Z" finished-at="2021-05-03T12:47:52Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- launch -->
-        <test-method status="PASS" signature="start(java.lang.String, java.lang.String)[pri:0, instance:newmaven.Newtest@4cc0edeb]" name="start" duration-ms="4816" started-at="2021-05-03T12:47:52Z" finished-at="2021-05-03T12:47:56Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[admin]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="start()[pri:0, instance:newmaven.Newtest@482f8f11]" name="start" duration-ms="1677" started-at="2021-05-04T18:31:51Z" finished-at="2021-05-04T18:31:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
       </class> <!-- newmaven.Newtest -->
-    </test> <!-- test -->
-  </suite> <!-- sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

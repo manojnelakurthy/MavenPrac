@@ -6,7 +6,6 @@
       <class name="newmaven.Newtest">
         <methods>
           <include name="start"/>
-          <include name="launch"/>
         </methods>
       </class> <!-- newmaven.Newtest -->
     </classes>
